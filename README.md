@@ -22,4 +22,4 @@ I don't just study theory; I put it into practice every single day.
 1. ** password_entropy_analyzer.py :** A custom Python tool to calculate mathematical entropy and cross-reference breached dictionaries locally (O(1) time complexity).
 2...
 
-📫 **Let's connect:** https://www.linkedin.com/in/luis-hinojosa-a315b13a/
+**Let's connect:** https://www.linkedin.com/in/luis-hinojosa-a315b13a/
