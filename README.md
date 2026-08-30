@@ -5,7 +5,7 @@ I am a Cybersecurity Defense Analyst based in Mexico City. I specialize in conti
 
 My unique edge? **I bring nearly a decade of experience in clinical diagnostic triage under extreme pressure.** I have successfully translated my ability to analyze critical symptoms and make split-second decisions into isolating network anomalies, hunting threats, and mitigating digital risks.
 
-### 📊 Proof of Work & Continuous Learning
+### Proof of Work & Continuous Learning
 I don't just study theory; I put it into practice every single day.
 - **TryHackMe Top 4%:** Ranked in the top 4% globally with a 150+ day consecutive learning streak.
 - **Core Focus:** Advanced completion of SOC Level 1, Network Fundamentals, and Cyber Defense Frameworks paths.
